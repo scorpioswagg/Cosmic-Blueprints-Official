@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "/mnt/chromeos/MyFiles/Downloads/TelegramSentinel": {
+      "projectPath": "/mnt/chromeos/MyFiles/Downloads/TelegramSentinel",
+      "name": "Master-Moderator",
+      "project": "0dcaaea1-6097-4b38-806a-beea96ce3a33",
+      "environment": "79684ac7-d77f-4a21-a8fe-9726340d587a",
+      "environmentName": "production",
+      "service": null
+    }
+  },
+  "user": {
+    "token": "rw_Fe26.2**7d9047161fa80ecb2c54650926136321d64fcb72923ac46f1a5d98c3dfab53bf*ONk6yhe8TazmBLHokq413A*hB6r2VekF_9MeN1LYpxmMX6uG74nDjL8kbUDtaq9AlLzTy9QfwDCEwRT0bdRzjkAaUrVFv2WnfmeuFUwDEOP5g*1742581103467*d58ee4bd0a3d22d5c207cc84607647f42735fda5deb427427e955fb279e5d7dd*RN4ry1okodzMFqarivku6E_XORU8mfS-TT92ERFTI7E"
+  }
+}

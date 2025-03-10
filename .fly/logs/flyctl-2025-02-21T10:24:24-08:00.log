@@ -1,0 +1,17 @@
+DEBUG Loaded flyctl config from/home/astrobutt84/.fly/config.yml
+DEBUG determined hostname: "penguin"
+DEBUG determined working directory: "/home/astrobutt84"
+DEBUG determined config directory: "/home/astrobutt84/.fly"
+DEBUG ensured config directory exists.
+DEBUG ensured config directory perms.
+DEBUG cache loaded.
+DEBUG config initialized.
+DEBUG skipped querying for new release
+DEBUG client initialized.
+DEBUG no app config found at /home/astrobutt84/fly.toml; skipped.
+DEBUG no app config found at /home/astrobutt84/fly.json; skipped.
+DEBUG no app config found at /home/astrobutt84/fly.yaml; skipped.
+DEBUG Starting task manager
+DEBUG Task manager done
+DEBUG started querying for statuspage incidents
+DEBUG querying for statuspage incidents resulted to &{[]}
