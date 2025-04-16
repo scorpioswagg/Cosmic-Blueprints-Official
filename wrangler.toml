@@ -1,0 +1,10 @@
+name = "2" # Replace with your worker's name
+type = "javascript" # For static sites, use `javascript`
+
+account_id = "d26785988f1fe2e78b788d66dbc2dff6" # Replace with your Cloudflare Account ID
+compatibility_date = "2025-04-16" # Use today's date
+
+# Specify the directory where your static files are located
+[site]
+bucket = "CLIENT/index.html" # Path to the folder containing your index.html
+entry-point = "workers-site" # Default for Wrangler's static site template
